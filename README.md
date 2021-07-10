@@ -1,2 +1,3 @@
 # subtlysilent
-My first static webprofile.
+Static webprofile. 
+Just practicing. 
