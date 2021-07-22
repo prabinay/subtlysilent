@@ -1,3 +1,3 @@
 # subtlysilent
-Static webprofile. 
-Just practicing. 
+My Static webprofile. 
+Just practicing. And learning.
